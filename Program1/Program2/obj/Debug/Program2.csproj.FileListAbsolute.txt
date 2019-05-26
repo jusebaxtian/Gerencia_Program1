@@ -1,0 +1,9 @@
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\bin\Debug\Program2.exe.config
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\bin\Debug\Program2.exe
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\bin\Debug\Program2.pdb
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\obj\Debug\Program2.exe
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\obj\Debug\Program2.pdb
+C:\Users\juans\documents\visual studio 2013\Projects\Program1\Program2\obj\Debug\Program2.FrmContarloc.resources
